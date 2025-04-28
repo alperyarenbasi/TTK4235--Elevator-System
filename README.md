@@ -106,7 +106,4 @@ make clean
 ```
 Removes all build artifacts in `build/`.
 
----
-_For further details, consult `heisrapport-gruppe78.pdf` or contact the author._
-
 
