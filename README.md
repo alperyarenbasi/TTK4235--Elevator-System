@@ -5,7 +5,7 @@
 
 This repository hosts the fully implemented four-floor elevator control system in C. The system communicates with the SimElevatorServer simulator (or Arduino hardware) to manage motor movement, floor indicators, button lamps, door timing, and emergency stop/obstruction handling. The design follows a pragmatic V‑model with UML documentation.
 
-Refer to `heisrapport-gruppe78.pdf` for in-depth requirements, design diagrams, implementation details, and reflections.
+Refer to `TTK4235_Heisprosjekt.pdf` for in-depth requirements, design diagrams, implementation details, and reflections.
 
 ## Repository Structure
 
